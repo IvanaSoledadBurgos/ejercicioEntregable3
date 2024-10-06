@@ -1,0 +1,14 @@
+{
+    "name": "mi-proyecto",
+    "version": "1.0.0",
+    "description": "Proyecto de ejemplo",
+    "main": "index.ts",
+    "scripts": {
+      "start": "ts-node index.ts"
+    },
+    "dependencies": {
+      "@types/node": "^14.14.41",
+      "ts-node": "^10.4.0",
+      "typescript": "^4.4.4"
+    }
+  }
